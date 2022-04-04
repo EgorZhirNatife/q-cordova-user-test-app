@@ -1,0 +1,18 @@
+{
+  "com.q.users.cordova": {
+    "source": {
+      "type": "registry",
+      "id": "https://github.com/Qbix/cordova-plugin-q-users.git"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-contacts": {
+    "source": {
+      "type": "registry",
+      "id": "https://github.com/Qbix/cordova-plugin-contacts.git"
+    },
+    "is_top_level": false,
+    "variables": {}
+  }
+}

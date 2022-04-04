@@ -1,0 +1,19 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "com.q.users.cordova": {
+      "PACKAGE_NAME": "com.example.qcordovausertestapp"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-contacts": {
+      "PACKAGE_NAME": "com.example.qcordovausertestapp"
+    }
+  }
+}
